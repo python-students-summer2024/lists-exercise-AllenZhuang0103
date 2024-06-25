@@ -14,5 +14,5 @@ def main():
     #     if diagonose:
     #         print(diagonose)
     #         break
-    
+    assess_mood()
 main()
